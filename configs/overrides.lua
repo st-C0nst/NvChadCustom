@@ -34,6 +34,7 @@ M.mason = {
     "clangd",
     -- c/cpp debugger
     "codelldb",
+    "pyright",
   },
 }
 

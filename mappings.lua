@@ -3,6 +3,7 @@ M.general = {
   n = {
     ["<C-d>"] = { "<C-d>zz", "half page down than center" },
     ["<C-u>"] = { "<C-u>zz", "half page up than center" },
+    ["Y"] = {"y$", "yank to end of line"},
     ["<C-h>"] = { "<cmd> TmuxNavigateLeft <CR>", "window left" },
     ["<C-l>"] = { "<cmd> TmuxNavigateRight <CR>", "window right" },
     ["<C-j>"] = { "<cmd> TmuxNavigateDown <CR>", "window down" },
